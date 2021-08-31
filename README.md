@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Firebase Chatapp
+
+**Making this app only to see how Firebase works. Link to [tutorial.](https://www.youtube.com/watch?v=zQyrwxMPm88)**
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

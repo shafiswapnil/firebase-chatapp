@@ -2,6 +2,8 @@
 
 **Making this app only to see how Firebase works. Link to [tutorial.](https://www.youtube.com/watch?v=zQyrwxMPm88)**
 
+Also, I didn't hosted it in web. Because I had some troubles hiding firebase configs in `.env` file and needed Blaze billing plan on Firebase Console. You can only able to see codes that makes Chatapp working in `App.js` file.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
